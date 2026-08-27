@@ -1,2 +1,2 @@
-# mysql-assignment-1
+# mysql-assignment-2
 Employee data
